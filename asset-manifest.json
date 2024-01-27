@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anv_testTask/static/css/main.cda06db3.css",
+    "main.js": "/anv_testTask/static/js/main.8d3fd4de.js",
+    "index.html": "/anv_testTask/index.html",
+    "main.cda06db3.css.map": "/anv_testTask/static/css/main.cda06db3.css.map",
+    "main.8d3fd4de.js.map": "/anv_testTask/static/js/main.8d3fd4de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cda06db3.css",
+    "static/js/main.8d3fd4de.js"
+  ]
+}
